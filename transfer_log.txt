@@ -1,0 +1,722 @@
+Transfer: 1 Distance: 186.89 km
+ADL -> AFW
+-40    40    
+
+Transfer: 2 Distance: 183.28 km
+AKU -> AGY
+-60    60    
+
+Transfer: 3 Distance: 240.79 km
+ABU -> AJN
+-21    21    
+
+Transfer: 4 Distance: 225.25 km
+ADW -> ADQ
+-84    84    
+
+Transfer: 5 Distance: 328.48 km
+AEJ -> ACX
+-29    29    
+
+Transfer: 6 Distance: 68.72 km
+ABG -> AES
+-45    45    
+
+Transfer: 7 Distance: 308.87 km
+AGZ -> AGO
+-81    81    
+
+Transfer: 8 Distance: 208.49 km
+AIE -> AFR
+-70    70    
+
+Transfer: 9 Distance: 165.13 km
+ABF -> AHB
+-33    33    
+
+Transfer: 10 Distance: 193.19 km
+ABS -> ADY
+-21    21    
+
+Transfer: 11 Distance: 71.32 km
+AJD -> AHR
+-74    74    
+
+Transfer: 12 Distance: 277.23 km
+ACO -> AJA
+-52    52    
+
+Transfer: 13 Distance: 146.75 km
+AKG -> AEW
+-6     6     
+
+Transfer: 14 Distance: 161.28 km
+AFJ -> ABC
+-8     8     
+
+Transfer: 15 Distance: 103.83 km
+AIC -> AIN
+-59    59    
+
+Transfer: 16 Distance: 383.51 km
+AKC -> AJZ
+-61    61    
+
+Transfer: 17 Distance: 283.42 km
+AGQ -> ADZ
+-12    12    
+
+Transfer: 18 Distance: 97.82 km
+ABE -> AJE
+-55    55    
+
+Transfer: 19 Distance: 384.81 km
+AAW -> AJM
+-46    46    
+
+Transfer: 20 Distance: 181.46 km
+AIB -> ACC
+-9     9     
+
+Transfer: 21 Distance: 102.31 km
+ABW -> ALN
+-69    69    
+
+Transfer: 22 Distance: 95.99 km
+AIH -> AGI
+-53    53    
+
+Transfer: 23 Distance: 92.69 km
+AEC -> AGL
+-84    84    
+
+Transfer: 25 Distance: 74.84 km
+AAF -> ADJ
+-67    67    
+
+Transfer: 26 Distance: 166.29 km
+AAM -> AEM
+-9     9     
+
+Transfer: 27 Distance: 417.04 km
+AAN -> AEW
+-25    25    
+
+Transfer: 28 Distance: 306.92 km
+AAC -> AFT
+-38    38    
+
+Transfer: 29 Distance: 481.93 km
+ADP -> AHC
+-52    52    
+
+Transfer: 30 Distance: 125.84 km
+AGU -> AEV
+-28    28    
+
+Transfer: 31 Distance: 131.05 km
+AGN -> AKE
+-11    11    
+
+Transfer: 32 Distance: 288.18 km
+AFZ -> ABC
+-29    29    
+
+Transfer: 33 Distance: 237.71 km
+AHO -> AJB
+-72    72    
+
+Transfer: 34 Distance: 200.28 km
+AEI -> AAY
+-48    48    
+
+Transfer: 35 Distance: 66.00 km
+ADN -> AIA
+-78    78    
+
+Transfer: 36 Distance: 167.91 km
+ADM -> AJU
+-63    63    
+
+Transfer: 37 Distance: 227.81 km
+AHD -> ACC
+-77    77    
+
+Transfer: 38 Distance: 317.62 km
+AKV -> AIK
+-32    32    
+
+Transfer: 39 Distance: 245.51 km
+ALD -> AJN
+-72    72    
+
+Transfer: 40 Distance: 288.71 km
+ABT -> AAU
+-59    59    
+
+Transfer: 41 Distance: 345.56 km
+AKB -> ADZ
+-38    38    
+
+Transfer: 42 Distance: 429.83 km
+AHH -> ALG -> AEM
+-83    8      75    
+
+Transfer: 43 Distance: 30.72 km
+AFM -> AKA -> ALK
+-80    5      75    
+
+Transfer: 44 Distance: 4.30 km
+AIV -> AEY
+-74    74    
+
+Transfer: 45 Distance: 197.27 km
+ABK -> AKT
+-13    13    
+
+Transfer: 46 Distance: 145.96 km
+ACK -> ALB
+-44    44    
+
+Transfer: 47 Distance: 80.75 km
+ACB -> AAX
+-27    27    
+
+Transfer: 48 Distance: 82.05 km
+AEH -> ADS
+-25    25    
+
+Transfer: 49 Distance: 357.00 km
+ADO -> ADE -> AEE
+-86    13     73    
+
+Transfer: 50 Distance: 152.16 km
+AAR -> AFC
+-72    72    
+
+Transfer: 51 Distance: 160.77 km
+AGP -> ACT
+-22    22    
+
+Transfer: 52 Distance: 241.93 km
+ABI -> ADY
+-62    62    
+
+Transfer: 53 Distance: 151.99 km
+AIM -> AKE
+-7     7     
+
+Transfer: 54 Distance: 610.10 km
+ADI -> ABD
+-7     7     
+
+Transfer: 55 Distance: 715.73 km
+AGA -> ADS -> AKW
+-81    11     70    
+
+Transfer: 56 Distance: 325.10 km
+ADT -> AEA
+-39    39    
+
+Transfer: 57 Distance: 284.14 km
+AAK -> AGV
+-27    27    
+
+Transfer: 58 Distance: 863.81 km
+ACW -> AEV -> AID
+-96    27     69    
+
+Transfer: 59 Distance: 122.03 km
+AJF -> AGJ
+-68    68    
+
+Transfer: 61 Distance: 177.52 km
+AKZ -> ABP
+-66    66    
+
+Transfer: 62 Distance: 638.39 km
+AEX -> ABQ -> ACX
+-96    30     66    
+
+Transfer: 63 Distance: 204.83 km
+ALM -> ACF
+-39    39    
+
+Transfer: 64 Distance: 74.66 km
+AAH -> ACQ
+-49    49    
+
+Transfer: 65 Distance: 239.78 km
+AJT -> AGL -> AIS
+-66    1      65    
+
+Transfer: 66 Distance: 739.08 km
+AHJ -> ALE -> AKE
+-78    14     64    
+
+Transfer: 67 Distance: 93.09 km
+AJC -> ALJ
+-45    45    
+
+Transfer: 68 Distance: 613.62 km
+AKZ -> ABD
+-19    19    
+
+Transfer: 70 Distance: 316.98 km
+AJK -> ACY
+-34    34    
+
+Transfer: 71 Distance: 157.84 km
+AKN -> ABJ
+-31    31    
+
+Transfer: 72 Distance: 449.16 km
+AKO -> ABZ
+-35    35    
+
+Transfer: 73 Distance: 23.77 km
+AEF -> AFF
+-61    61    
+
+Transfer: 74 Distance: 205.57 km
+AFL -> AHB
+-51    51    
+
+Transfer: 75 Distance: 544.97 km
+AIJ -> AKT
+-61    61    
+
+Transfer: 76 Distance: 178.81 km
+AJL -> AED
+-20    20    
+
+Transfer: 78 Distance: 626.05 km
+AKP -> ALF -> AJY
+-62    2      60    
+
+Transfer: 79 Distance: 100.84 km
+ABN -> AKR
+-11    11    
+
+Transfer: 80 Distance: 73.52 km
+AGE -> ABM
+-59    59    
+
+Transfer: 81 Distance: 613.91 km
+AIQ -> AEW
+-42    42    
+
+Transfer: 82 Distance: 957.90 km
+AEB -> AHX -> ADB -> AFW
+-85    19     7      59    
+
+Transfer: 83 Distance: 472.47 km
+AJT -> AEZ
+-20    20    
+
+Transfer: 84 Distance: 890.36 km
+AFX -> AGF -> AFA
+-85    27     58    
+
+Transfer: 85 Distance: 372.25 km
+AHT -> AGM
+-58    58    
+
+Transfer: 86 Distance: 521.21 km
+AHT -> ALF
+-11    11    
+
+Transfer: 87 Distance: 850.67 km
+AJR -> AIX -> ACD
+-74    17     57    
+
+Transfer: 88 Distance: 198.94 km
+AIP -> ACJ
+-11    11    
+
+Transfer: 89 Distance: 477.15 km
+AJF -> ADR
+-7     7     
+
+Transfer: 90 Distance: 287.63 km
+AHK -> ABO
+-43    43    
+
+Transfer: 91 Distance: 278.64 km
+ADD -> AKM
+-16    16    
+
+Transfer: 92 Distance: 840.23 km
+AGD -> ADH -> ADG
+-85    31     54    
+
+Transfer: 93 Distance: 1139.02 km
+AJI -> AJH -> AJG
+-64    10     54    
+
+Transfer: 94 Distance: 328.37 km
+AAO -> ALI
+-54    54    
+
+Transfer: 95 Distance: 298.69 km
+ADX -> AFS
+-53    53    
+
+Transfer: 96 Distance: 134.12 km
+AKJ -> AJX
+-53    53    
+
+Transfer: 97 Distance: 323.59 km
+AIO -> AHY -> AKX
+-72    19     53    
+
+Transfer: 98 Distance: 350.34 km
+AGE -> ABC
+-12    12    
+
+Transfer: 99 Distance: 461.20 km
+ABL -> AHB -> AHP
+-61    10     51    
+
+Transfer: 100 Distance: 717.67 km
+ACP -> AHV
+-12    12    
+
+Transfer: 101 Distance: 179.46 km
+AAL -> AKM -> AKF
+-64    13     51    
+
+Transfer: 102 Distance: 104.67 km
+AAQ -> AES
+-50    50    
+
+Transfer: 103 Distance: 899.98 km
+AEK -> AHF -> ACT
+-63    14     49    
+
+Transfer: 104 Distance: 535.40 km
+AFQ -> ADR
+-39    39    
+
+Transfer: 105 Distance: 351.61 km
+ADC -> AFG -> AKR
+-51    2      49    
+
+Transfer: 106 Distance: 910.91 km
+AGH -> AGW -> AKI -> ALF
+-58    2      9      47    
+
+Transfer: 107 Distance: 210.36 km
+AIU -> AAX
+-46    46    
+
+Transfer: 108 Distance: 688.78 km
+AHQ -> ALN -> ACJ
+-63    17     46    
+
+Transfer: 109 Distance: 634.63 km
+AHD -> AFT
+-5     5     
+
+Transfer: 110 Distance: 81.36 km
+ADU -> AFY
+-36    36    
+
+Transfer: 111 Distance: 29.07 km
+AJQ -> ABR
+-19    19    
+
+Transfer: 112 Distance: 656.99 km
+AKQ -> ALA -> AIX -> AIK
+-58    4      9      45    
+
+Transfer: 113 Distance: 1281.21 km
+ACM -> ALJ -> ABD
+-54    10     44    
+
+Transfer: 114 Distance: 129.68 km
+AJW -> ACA
+-44    44    
+
+Transfer: 115 Distance: 1292.57 km
+AEU -> AFG -> AKK
+-55    11     44    
+
+Transfer: 116 Distance: 836.27 km
+AFX -> AEG
+-6     6     
+
+Transfer: 117 Distance: 75.28 km
+ACL -> AEN
+-8     8     
+
+Transfer: 118 Distance: 952.22 km
+ALH -> AFK -> AGV
+-51    9      42    
+
+Transfer: 119 Distance: 2531.58 km
+AAJ -> AKD -> ALJ -> AFG -> AKH
+-90    12     9      27     42    
+
+Transfer: 120 Distance: 543.66 km
+AAQ -> AEQ
+-37    37    
+
+Transfer: 121 Distance: 724.40 km
+AHW -> AFT
+-22    22    
+
+Transfer: 122 Distance: 1049.90 km
+AHZ -> ALG -> AGK
+-44    3      41    
+
+Transfer: 123 Distance: 595.73 km
+AGX -> AEL -> AJP -> AHE
+-55    9      5      41    
+
+Transfer: 124 Distance: 921.03 km
+AKS -> AJM
+-29    29    
+
+Transfer: 125 Distance: 1394.03 km
+ACS -> AEN -> ABC
+-68    28     40    
+
+Transfer: 126 Distance: 857.42 km
+AER -> AHF -> AED
+-52    12     40    
+
+Transfer: 127 Distance: 1776.56 km
+AKL -> AGW -> AFP -> AFB -> AGY
+-81    20     11     11     39    
+
+Transfer: 128 Distance: 1440.08 km
+AFO -> ACQ -> AGI -> AHV
+-75    4      32     39    
+
+Transfer: 129 Distance: 2808.13 km
+AFV -> AFU -> ADR -> ADK -> AJA
+-98    25     10     24     39    
+
+Transfer: 130 Distance: 234.00 km
+ABA -> ALE
+-38    38    
+
+Transfer: 131 Distance: 726.00 km
+AAD -> ADZ
+-9     9     
+
+Transfer: 132 Distance: 2049.92 km
+AGS -> ADY -> AEP -> AJH -> AHL -> AEZ
+-93    7      7      17     24     38    
+
+Transfer: 133 Distance: 88.52 km
+ADX -> AFE
+-19    19    
+
+Transfer: 134 Distance: 170.19 km
+AJW -> ACH
+-37    37    
+
+Transfer: 135 Distance: 172.92 km
+AAT -> ACZ
+-37    37    
+
+Transfer: 136 Distance: 489.72 km
+AIY -> AFE -> ADS
+-38    1      37    
+
+Transfer: 137 Distance: 2454.86 km
+AHM -> AHC -> AJM -> ADH -> AKD -> AEG
+-98    31     12     15     3      37    
+
+Transfer: 138 Distance: 508.24 km
+AAR -> AAP
+-27    27    
+
+Transfer: 139 Distance: 546.11 km
+AIT -> AEN -> ACE
+-41    7      34    
+
+Transfer: 140 Distance: 795.24 km
+AER -> AET
+-32    32    
+
+Transfer: 141 Distance: 1015.21 km
+ABL -> AKA -> AJE
+-34    2      32    
+
+Transfer: 142 Distance: 1794.68 km
+AIJ -> AAY
+-14    14    
+
+Transfer: 143 Distance: 284.83 km
+ADA -> ABJ
+-30    30    
+
+Transfer: 144 Distance: 2078.68 km
+AER -> AEA
+-8     8     
+
+Transfer: 145 Distance: 310.07 km
+AIT -> AIN
+-24    24    
+
+Transfer: 146 Distance: 176.89 km
+AFN -> ALB
+-30    30    
+
+Transfer: 147 Distance: 1252.67 km
+AAO -> ADE
+-26    26    
+
+Transfer: 148 Distance: 540.16 km
+AEF -> ADF
+-18    18    
+
+Transfer: 149 Distance: 4314.67 km
+AJO -> ACF -> ADZ
+-41    12     29    
+
+Transfer: 150 Distance: 1607.17 km
+AFH -> AGR
+-22    22    
+
+Transfer: 151 Distance: 53.12 km
+AHN -> AIR
+-29    29    
+
+Transfer: 152 Distance: 991.88 km
+AGC -> AEW -> AHC -> ACY
+-46    17     1      28    
+
+Transfer: 153 Distance: 1185.75 km
+AFD -> AEV
+-18    18    
+
+Transfer: 154 Distance: 304.64 km
+AAG -> AHS
+-28    28    
+
+Transfer: 155 Distance: 704.57 km
+AJV -> AIL
+-21    21    
+
+Transfer: 157 Distance: 6808.79 km
+AIG -> ALA -> ACQ -> AGO -> AKM -> AIN -> AHY
+-93    8      12     14     26     6      27    
+
+Transfer: 158 Distance: 1422.45 km
+ACN -> ADQ -> AII -> ABQ
+-32    4      2      26    
+
+Transfer: 159 Distance: 84.51 km
+ADA -> ABR
+-26    26    
+
+Transfer: 160 Distance: 4793.43 km
+AAT -> ALA -> AEQ -> ABZ
+-32    2      4      26    
+
+Transfer: 161 Distance: 4470.17 km
+AHQ -> AHX -> AJZ
+-27    2      25    
+
+Transfer: 162 Distance: 6751.76 km
+ACV -> AIW -> AFT -> AGR -> ADE -> ADQ -> AHU -> AFR
+-73    7      19     7      3      9      4      24    
+
+Transfer: 163 Distance: 153.81 km
+AHI -> AAA -> AGT
+-29    5      24    
+
+Transfer: 164 Distance: 93.75 km
+AHA -> ALC
+-23    23    
+
+Transfer: 165 Distance: 3471.85 km
+ALL -> AJU -> ABO -> AIW -> AEA
+-55    12     12     9      22    
+
+Transfer: 166 Distance: 797.24 km
+ACG -> AHX
+-22    22    
+
+Transfer: 167 Distance: 1735.57 km
+ACG -> ADF -> AKY
+-24    2      22    
+
+Transfer: 168 Distance: 6062.53 km
+AAV -> ACF -> ADF -> ALA -> AGG -> ALG
+-44    1      9      6      7      21    
+
+Transfer: 170 Distance: 2393.94 km
+ABH -> AIF
+-17    17    
+
+Transfer: 171 Distance: 1865.20 km
+ADA -> AJU -> AFE
+-21    3      18    
+
+Transfer: 172 Distance: 790.67 km
+AHA -> AAU
+-8     8     
+
+Transfer: 173 Distance: 2809.08 km
+AIU -> AAY
+-16    16    
+
+Transfer: 174 Distance: 166.76 km
+AFN -> ACI
+-17    17    
+
+Transfer: 175 Distance: 147.00 km
+AAB -> ADJ
+-7     7     
+
+Transfer: 176 Distance: 4377.81 km
+AGC -> AEL -> AEO
+-24    7      17    
+
+Transfer: 177 Distance: 114.81 km
+AHN -> AHR
+-17    17    
+
+Transfer: 178 Distance: 3334.08 km
+AKJ -> AIL -> AEL -> AAZ
+-20    3      1      16    
+
+Transfer: 180 Distance: 237.46 km
+AKL -> ADV
+-16    16    
+
+Transfer: 182 Distance: 2782.50 km
+AIV -> ABY
+-7     7     
+
+Transfer: 184 Distance: 8341.87 km
+AHI -> AFK -> AFI -> AIF -> ACF -> AJN -> ACR
+-46    9      9      3      9      5      11    
+
+Transfer: 185 Distance: 403.27 km
+AFN -> AFY -> ADJ
+-20    10     10    
+
+Transfer: 186 Distance: 6644.17 km
+AGB -> AAP -> ALE -> ADY -> AAY -> ABY -> ACU -> AFK -> AEV
+-24    2      1      2      1      6      1      1      10    
+
+Transfer: 187 Distance: 1415.95 km
+AIZ -> AFU -> AAU
+-13    4      9     
+
+Transfer: 189 Distance: 2609.75 km
+AAE -> AJB -> AIL -> ABB
+-18    6      4      8     
+
+Transfer: 190 Distance: 4088.87 km
+AAE -> AAP
+-5     5     
+
+Total distance traveled through all pulls: 173488.23 km
+

@@ -75,7 +75,7 @@ distances_df = pd.DataFrame(
 #%%
 
 
-def send(local_df, sender='', carry_on=0, visited=None):
+def send(local_df:pd.DataFrame, sender:str='', visited:list[str]=None):
     if visited is None:
         visited = []
     transfer_occurred = False
@@ -83,35 +83,40 @@ def send(local_df, sender='', carry_on=0, visited=None):
     def transfer(sender: str, receiver: str, amount: int, df: pd.DataFrame = None):
         if df is None:
             df = local_df
+        #print(f'Sender has {local_df.loc[sender,"Surplus"]}, receiver has {local_df.loc[receiver,"Surplus"]}')
         df.at[sender, 'Surplus'] -= amount
         df.at[receiver, 'Surplus'] += amount
+        #print(f'Transferred {amount} from {sender} to {receiver}')
+        #print(f'Sender has {local_df.loc[sender,"Surplus"]}, receiver has {local_df.loc[receiver,"Surplus"]}')
         return df
 
     if not sender:
         sender = local_df['Surplus'].idxmax()
 
     receiver = distances_df.loc[sender, local_df.loc[local_df['Surplus'] < 0].index].idxmin()
-    print(f"Sender: {sender}, Receiver: {receiver}, Carry_on: {carry_on}, Visited: {visited}")
     if local_df.loc[sender, 'Surplus'] <= abs(local_df.loc[receiver, 'Surplus']):
-        resto = 0 if local_df.loc[sender, 'Surplus'] % 25 >= 5 else local_df.loc[sender, 'Surplus'] % 25
-        amount = local_df.loc[sender, 'Surplus'] - resto
+        amount = local_df.loc[sender, 'Surplus']
         local_df = transfer(sender, receiver, amount)
         if amount> 0:
             transfer_occurred = True
     else:
         visited.append(receiver)
-        amount = abs(local_df.loc[receiver, 'Surplus'] + carry_on)
         closest_notcomply_sender = distances_df.loc[sender, local_df.loc[(local_df['Surplus'] <= 0) & (~local_df.index.isin(visited))].index].idxmin()
-        closest_notcomply_receiver = distances_df.loc[receiver, local_df.loc[local_df['Surplus'] < 0].index].idxmin()
-
+        closest_notcomply_receiver = distances_df.loc[receiver, local_df.loc[(local_df['Surplus'] < 0) & (~local_df.index.isin(visited))].index].idxmin()
         if distances_df.loc[sender, closest_notcomply_sender] <= distances_df.loc[receiver, closest_notcomply_receiver]:
+            amount = abs(local_df.loc[receiver, 'Surplus'])
             local_df = transfer(sender, receiver, amount)
             if amount > 0:
                 transfer_occurred = True
         else:
-            carry_on += abs(local_df.loc[receiver, 'Surplus'])
-            print(f"Sender: {sender}, Receiver: {receiver}, Amount: {amount}, Carry_on: {carry_on}, Visited: {visited}")
-            local_df, transfer_occurred = send(local_df, sender=receiver, carry_on=carry_on, visited=visited)
+            carry_on = abs(local_df.loc[receiver, 'Surplus'])
+            #print(f'Available: {local_df.loc[sender,"Surplus"]}')
+            #print(f'Needed: {carry_on+abs(local_df.loc[closest_notcomply_receiver,"Surplus"])}')
+            amount=min(carry_on+abs(local_df.loc[closest_notcomply_receiver,'Surplus']),local_df.loc[sender,'Surplus'])
+            
+            local_df=transfer(sender,receiver,amount)
+            local_df= send(local_df, sender=receiver, visited=visited)[0]
+            transfer_occurred=True
     return local_df, transfer_occurred
 
 #%%
@@ -120,7 +125,9 @@ count = 0
 visited = []  # Initialize the visited list outside the loop
 while any(not warehouse.comply for warehouse in map_instances):
     count += 1
-    local_df, transfer_occurred = send(local_df, visited=visited)  # Pass visited list
-    print(transfer_occurred)
-    if not transfer_occurred:
+    visited=[]
+    sender=''
+    local_df, transfer_occurred = send(local_df)  # Pass visited list
+    if not transfer_occurred or all(local_df.Surplus>=0) or all(local_df.Surplus>=0):
         break
+    
